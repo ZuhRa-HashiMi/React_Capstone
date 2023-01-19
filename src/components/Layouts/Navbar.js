@@ -9,7 +9,7 @@ const Navbar = ({ title }) => (
   <nav className="navbar">
     <div className="nav-items">
       <Link to="/">{title ? <IoIosArrowBack className="arrow" /> : ''}</Link>
-      <h2 className="date">2022</h2>
+      <h2 className="date">2023</h2>
       {title ? (
         <h4 className="header-text">
           {' '}
