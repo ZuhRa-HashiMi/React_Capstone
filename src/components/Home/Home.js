@@ -1,7 +1,4 @@
 /* eslint-disable linebreak-style */
-/* eslint-disable react/jsx-indent */
-/* eslint-disable no-undef */
-/* eslint-disable linebreak-style */
 import numberSeparator from 'number-separator';
 import React, { useState } from 'react';
 import { useSelector } from 'react-redux';
@@ -27,16 +24,16 @@ const Home = () => {
           />
         </div>
         <div className="countries display">
-          {/* {countries
+          {countries
             .filter((country) => country.Country.match(index))
-            .map((country) => ( */}
+            .map((country) => (
               <ItemsCard
                 key={country.ID}
                 id={country.ID}
-                country={countries}
+                country={country}
                 totallConfirmed={numberSeparator(country.TotalConfirmed, ',')}
               />
-            {/* ))} */}
+            ))}
         </div>
       </div>
     </BasicLayoutContainer>
