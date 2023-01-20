@@ -12,11 +12,11 @@
 -  React, Redux
 ## Presentatin Link
 
-- [Video Demo](https://www.loom.com/share/e3fdfcaa2a2842a79baa3b318268fe62)
+- [Video Demo](https://www.loom.com/share/141540278bbd48ecb289f5c2b4889a6c)
 
 ## Live Demo
 
-- [Live Demo Link](https://samiullahbahadur.github.io/Covid-tracker/)
+- [Live Demo Link](https://react-capostone-03b0c2.netlify.app/)
 
 ## Available Scripts
 
@@ -66,10 +66,10 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Author
 
-👤 **Samiullah Bahadur**
+👤 **Zuhra Hashimi**
 
-- [Github](https://github.com/samiullahbahadur)
-- [LinkedIn](https://www.linkedin.com/in/samiullah-bahadur/)
+- [Github](https://github.com/ZuhRa-HashiMi)
+- [LinkedIn](https://www.linkedin.com/in/zuhra-hashimi/)
 
 
 ## 🤝 Contributing
