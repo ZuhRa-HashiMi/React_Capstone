@@ -1,146 +1,173 @@
- <br/>
+<a name="readme-top"></a>
+
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/microverseinc/readme-template/master/murple_logo.png" alt="logo" width="140"  height="auto" />
+  <h3><b>Microverse README Template</b></h3>
+
 </div>
-  <br/>
 
-<!-- TABLE OF CONTENTS -->
+# :green_book: Table of Contents
 
-# 📗 Table of Contents
-
-- [📖 About the Project](#about-project)
+- [:book: About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
+    - [Key Features](#key-features)
+  - [:rocket: Live Demo](#live-demo)
+- [:computer: Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
-- [👥 Authors](#authors)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [📝 License](#license)
+  - [Usage](#usage)
+- [:busts_in_silhouette: Authors](#authors)
+- [:telescope: Future Features](#future-features)
+- [:handshake: Contributing](#contributing)
+- [:star:️ Show your support](#support)
+- [:pray: Acknowledgements](#acknowledgements)
+- [:question: FAQ](#faq)
+- [:memo: License](#license)
 
-<!-- PROJECT DESCRIPTION -->
+# :book: [Recipa] <a name="about-project"></a>
 
-# COVID-19 Data TRACKER
+**[COVID-19 Data TRACKER]** **[COVID-19 Data TRACKER]** is a data that shows for each country.You can search your country and know its statistics.
 
-> This is Covid-19 data that shows for each country.You can search your country and know its statistics . 
+## 🛠 Built With <a name="built-with"></a>
 
-![screenshot](src/Assets/Screen-Shot.png)
+### Tech Stack <a name="tech-stack"></a>
 
-## Built With
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
 
-- HTML, CSS, SCSS, JS
--  React, Redux
-## Presentatin Link
+### Key Features <a name="key-features"></a>
 
-- [Video Demo](https://www.loom.com/share/141540278bbd48ecb289f5c2b4889a6c)
+- **[Loaders]**
+- **[React Routers]**
 
-## Live Demo
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## :rocket: Presentation Link <a name="live-demo"></a>
+
+- [Presntation Link](https://www.loom.com/share/141540278bbd48ecb289f5c2b4889a6c)
+
+
+## :rocket: Live Demo <a name="live-demo"></a>
 
 - [Live Demo Link](https://react-capostone-03b0c2.netlify.app/)
 
-## Available Scripts
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-In the project directory, you can:
+## :computer: Getting Started <a name="getting-started"></a>
 
-### Run the app in the development mode
+To get a local copy up and running, follow these steps.
 
-- Launch your terminal,
-- `cd` into the directory where you want to clone your project,
-- Enter the commands below
+### Prerequisites
+
+In order to run this project you need:
+
+
+- Create React App
+
+   ```sh
+   npm i create-react-app
+   ```
+   
+
+### Setup
+
+Clone this repository to your desired folder:
+
+Example commands:
+
+```sh
+  cd my-folder
+  git clone git@github.com:ZuhRa-HashiMi/React_Capstone.git
 ```
-$ git clone https://github.com/ZuhRa-HashiMi
-$ npm install
-$ npm start
-````
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Install
 
-### Launch the test runner in the interactive watch mode
+Install this project with:
 
-`npm test`
+- Install Node Modules
 
-### Build the app for production to the `build` folder
+   ```sh
+   npm install
+   ```
 
-`npm run build`
+### Usage
 
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To run the project, execute the following command:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Start the development server
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+   ```sh
+   npm start
+   ```
+   
+### Run tests
 
-### Eject the app
+To run tests, run the following command:
 
-`npm run eject`
+```sh
+  npm test
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## :busts_in_silhouette: Authors <a name="authors"></a>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-
-## Author
-
-👤 **Zuhra Hashimi**
+:bust_in_silhouette: **Zuhra Hashimi**
 
 - [Github](https://github.com/ZuhRa-HashiMi)
 - [LinkedIn](https://www.linkedin.com/in/zuhra-hashimi/)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## :telescope: Future Features <a name="future-features"></a>
+
+- [ ] **[Modal for Adding Comments]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
-
-## 🤝 Contributing <a name="contributing"></a>
+## :handshake: Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/odaialazzeh/math-magicians/issues).
+Feel free to check the [issues page](https://github.com/ZuhRa-HashiMi/React_Capstone/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
+## :star:️ Show your support <a name="support"></a>
 
-## ⭐️ Show your support <a name="support"></a>
-
-
-If you like this project give it a star.
+If you like this project, please star it here on GitHub
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
+## :pray: Acknowledgments <a name="acknowledgements"></a>
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-A list of resources that i find helpful and would like to give credit to :
-
-- [Microverse ](https://www.microverse.org)
-- [GitHub ](https://www.github.com)
-- [Youtube ](https://www.youtube.com)
-- [W3schools ](https://www.w3schools.com)
-- [Stackoverflow ](https://stackoverflow.com)
+Original design idea by [Nelson Sakwa on Behance.](https://www.behance.net/gallery/31579789/Ballhead-App-%28Free-PSDs%29). Under the [Creative Commons License](https://creativecommons.org/licenses/by-nc/4.0/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
+## :question: FAQ <a name="faq"></a>
+
+- **[Question_1]**
+
+  - [Answer_1]
+
+- **[Question_2]**
+
+  - [Answer_2]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Show your support
+## :memo: License <a name="license"></a>
 
-Give a ⭐️ if you like this project!
+This project is [MIT](./LICENSE) licensed.
 
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
-## Huge Thanks
-
-I give my huge thanks for [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio). For wonderful template on [Behance](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)).  
-## 📝 License
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
